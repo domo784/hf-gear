@@ -1,5 +1,5 @@
 ---
-title: A
+title: wink
 emoji: 🔥
 colorFrom: blue
 colorTo: red
