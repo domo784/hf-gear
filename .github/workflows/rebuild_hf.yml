@@ -3,7 +3,7 @@
 name: Rebuild HF
 on:
   schedule:
-    - cron: '0 */2 * * *' # Runs in every 2 hours to build it. You can change the 2 to whatever you want.
+    - cron: '0 */4 * * *' # Runs in every 2 hours to build it. You can change the 2 to whatever you want.
   workflow_dispatch: # Manual trigger for workflow.
 
 jobs:
